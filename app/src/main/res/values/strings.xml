@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">DOBCalc</string>
+    <string name="app_name">Age In Minutes</string>
+    <string name="calculate_your">CALCULATE YOUR</string>
+    <string name="age">AGE</string>
+    <string name="in_minutes">IN MINUTES</string>
+    <string name="date_placeholder">07/12/2023</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="in_minutes_description">In minutes till date</string>
+    <string name="in_minutes_placeholder">1440</string>
 </resources>
